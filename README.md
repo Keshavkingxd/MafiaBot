@@ -52,8 +52,8 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Keshavkingxd/MAFIA-USERBOT.git
-cd MAFIA-USERBOT
+git clone https://github.com/Keshavkingxd/Keshavkingxd.git
+cd Keshavkingxd
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
